@@ -41,4 +41,4 @@ To meet the project requirements, our application includes:
 
 ``bash
 
-git clone [[https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)](https://github.com/svpontes/streettshirtproject.git)
+git clone https://github.com/svpontes/streettshirtproject.git
