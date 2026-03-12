@@ -26,7 +26,7 @@ To meet the project requirements, our application includes:
 
 3. CRUD Operations:** *Administrators:* Create, read, update, and delete products (t-shirts) and manage inventory.
 
-*Customers:* Add items to the shopping cart and manage their addresses/orders.
+*Customers:* Add items to the shopping cart and manage their addresses/orders e personal info.
 
 4. Shopping Cart and Checkout:** Complete online purchase simulation flow.
 
@@ -41,4 +41,6 @@ To meet the project requirements, our application includes:
 
 ``bash
 
-git clone [[https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)](https://github.com/svpontes/streettshirtproject.git)
+git clone https://github.com/svpontes/streettshirtproject.git
+
+trello
